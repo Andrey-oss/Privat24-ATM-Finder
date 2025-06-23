@@ -2,6 +2,9 @@
 
 A utility for locating PrivatBank branches and ATMs with filtering by city and service type.
 
+## NOTE:
+Privatbank has been closed API support to get ATM by request since August 31, 2022. Use this app as template for future works
+
 ## 🔍 Features
 
 - Find PrivatBank branches and ATMs
