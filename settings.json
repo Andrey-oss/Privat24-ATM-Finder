@@ -1,5 +1,5 @@
 {
-  "MOTD": "",
-  "RECOMENDATIONS": "TRUE",
-  "OUTPUT_IN_FILE": "TRUE"
+  "MOTD": true,
+  "RECOMENDATIONS": true,
+  "OUTPUT_IN_FILE": true
 }

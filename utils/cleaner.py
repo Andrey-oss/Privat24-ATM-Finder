@@ -1,6 +1,11 @@
+'''Module for cleaning screen'''
+
 import os
+
 def clear():
-   if os.name == "nt":
-       os.system("cls")
-   else:
-       os.system("clear")
+    '''Clear function'''
+
+    if os.name == "nt":
+        os.system("cls")
+    else:
+        os.system("clear")
